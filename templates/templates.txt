@@ -1,1 +1,1 @@
-Partial images will be stored here
+Add templates on this folder
